@@ -1,0 +1,75 @@
+/*' Rédaction des requêtes pour répondre aux exigences de Sarah et Olivier'*/
+
+/* Ouverture des tables pour vérification*/
+Select * from produit ;
+Select * from magasin ;
+Select * from retour_client ;
+
+/* Question n°1 : Nombre de retous client sur les livraisons*/
+Select count(*) as Nombre_livraison
+from retour_client
+where libelle_categorie ='livraison' ;
+
+/* Question n°2 : liste des notes des clients sur réseaux sociaux sur les TV */
+Select R.note, R.libelle_source, P.titre_produit
+From retour_client R, produit P
+Where R.cle_produit = P.cle_produit
+And R.libelle_source = 'réseaux sociaux'
+And P.titre_produit = 'TV' ;
+
+/*Question n°3 : Moyenne pour chaque catégorie de produit*/
+Select round(avg(note), 2) as moyenne, libelle_categorie
+From retour_client
+group by libelle_categorie
+Order by moyenne desc ;
+
+/*Question n°4 : le top 5 des magasins avec les moyenne*/
+Select R.ref_magasin, M.libelle_de_commune, round(avg(R.note),2) as moyenne
+From retour_client R, magasin M
+Where R.ref_magasin = M.ref_magasin
+group by R.ref_magasin
+Order by moyenne desc
+Limit 5 ;
+
+/*Question n°5: Les magasins avec plus de 12 retours clients sur le drive*/
+Select R.ref_magasin, M.libelle_de_commune, count(*) as feedback
+From retour_client R, magasin M
+Where libelle_categorie = 'drive'
+And R.ref_magasin = M.ref_magasin
+Group by R.ref_magasin
+Having feedback > 12
+order by feedback ;
+
+/* Question n°6 : le classement des notes par département*/
+Select M.departement as code_departement, round(avg(R.note),2) as note_moyenne
+From retour_client R
+left outer join magasin M on R.ref_magasin = M.ref_magasin
+Group by M.departement
+Order by note_moyenne desc ;
+
+/* Question n°7 : la typologie de produit ayant le meilleur service après-vente*/
+Select P.typologie_produit, round(avg(R.note),2) as note_moyenne
+From retour_client R
+left outer join produit P on R.cle_produit = P.cle_produit
+Where R.libelle_categorie ='service après-vente'
+Group by P.typologie_produit
+Order by note_moyenne desc
+Limit 1 ;
+
+/* Question n°8 : La moyenne sur l'ensemble des boisons*/
+Select round(avg(R.note),2) as note_moyenne_boissons
+From retour_client R, Produit P
+Where R.cle_produit = P.cle_produit 
+And Lower(P.titre_produit) like'%boissons%' ;
+
+/* Question n°9 : Classement des jours de la semaine où l'expérience client est la meilleure
+expérience en magasin */
+Select date(date_achat) as jours_semaine, count(*) as Nombre_de_feedback
+From retour_client
+Where libelle_categorie = 'experience en magasin%'
+Group by jours_semaine;
+
+/* Question n°10 : Sur quel mois a-t-on le plus de retour sur 
+le service après-vente ?*/ 
+Select distinct month(date_achat) as mois_retour_client
+From retour_client
