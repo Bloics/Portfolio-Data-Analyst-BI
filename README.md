@@ -1,7 +1,9 @@
 # Data Analyst BI
 
-### Education
+#### Technical Skills : Power Query & Pivot | Power BI | SQL | R | QlikView | Tableau 
 
-### WorkExperience
+## Education
 
-### Projets 
+## WorkExperience
+
+## Projets 
