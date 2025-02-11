@@ -1,20 +1,7 @@
-# Portfolio-Data-Analyst-BI
+# Data Analyst BI
 
-Ce répertoire contient divers travaux et exemples de projets que j'ai menés en tant qu'analyste de données BI. Vous y trouverez :
+### Education
 
-- **Des analyses de données**
-- **Des visualisations de données**
-- **Des modèles prédictifs**
-- **Des rapports interactifs**
-- **Des scripts de traitement de données**
+### WorkExperience
 
-### Outils utilisés :
-
-- **Excel BI**
-- **MS Office**
-- **Python**
-- **SQL**
-- **QlikView**
-- **R**
-- **Power BI**
-- **SAP Analytics Cloud (SAC)**
+### Projets 
