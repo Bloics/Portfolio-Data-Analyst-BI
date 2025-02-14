@@ -33,7 +33,7 @@
 - **Census Agent [INSEE/EUROMETROPOLIS OF STRASBOURG]** : _01/2020 - 02/2021_
   -   _Data collection from the residents of the Eurometropolis_ ;  
     
-- **Assistant Statistician** : _06/2018 - 02/2019_
+- **Assistant Statistician [DSA - BENIN]** : _06/2018 - 02/2019_
   -   _Data collection, processing and control of survey Data_,
   -   _Writing reports and survey guides_,
   -   _Creation, processing and management of Database_,
