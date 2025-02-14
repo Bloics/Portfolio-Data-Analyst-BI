@@ -11,10 +11,19 @@
 ## 💼 Work Experience
 - **Operational Performance Assitant** : _09/2023 - Present_
   -   A
+    
 - **Socio-Economic Studies Officer** : _02/2022 - 08/2022_
+  -   A
+    
 - **Statistician** : _06/2021 - 07/2021_
+  -   B
+    
 - **Census Agent** : _01/2020 - 02/2021_
+  -   C
+    
 - **Assistant Statistician** : _06/2018 - 02/2019_
+  -   D
+    
 
 ## 🚀 Projets 
 
