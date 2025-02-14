@@ -2,7 +2,7 @@
 
 #### Technical Skills : Power Query & Pivot | Power BI | SQL | R | QlikView | Tableau 
 
-## Education
+## 💼 Education
 🎓 **Data Analyst BI at ENSAE-ENSAI, Openclassrooms, RNCP Level 6**.  
 🎓 **Master's in Demography (Social Sciences) at IDUS-University of Strasbourg**.  
 🎓 **Bachelor's in Demography (Social Sciences) at IDUS-University of Strasbourg**.  
