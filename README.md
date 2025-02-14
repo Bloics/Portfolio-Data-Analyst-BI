@@ -16,7 +16,7 @@
   -   _Creation of dashboards for daily team activity monitoring_ :
       -   _Preventive Safety Maintenance MPS_,  
       -   _High Point Service for pylons and sites SPH_,
-      -   _Beacon intervention request by RIS (Site Infrastructure Manager) ..._,
+      -   _Beacon intervention request by RIS (Site Infrastructure Manager) ..._ ;
   -   _Initiation of training sessions for collaborators on using the BI tool_ ; 
     
 - **Socio-Economic Studies Officer** : _02/2022 - 08/2022_
