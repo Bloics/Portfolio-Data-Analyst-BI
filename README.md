@@ -9,7 +9,7 @@
 - **Professional Bachelor's in Statistics (Data Science) at ENEAM-University of Abomey-Calavi** : (_01/2014 - 01/2018_) ;    
 
 ## 💼 Work Experience
-- **Operational Performance Assitant | TDF North-Est** : _09/2023 - Present_
+- **Operational Performance Assitant [TDF North-Est]** : _09/2023 - Present_
   -   _Organization, conservation and traceability of Data_ ;
   -   _Consolidation and optimization of Data on the activity of Opearations Department_ ;
   -   _Participation in the overhaul of the national Scorecard on activity performance_ ;
