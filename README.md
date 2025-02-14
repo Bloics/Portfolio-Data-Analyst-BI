@@ -22,7 +22,9 @@
   -   _Initiation of training sessions for collaborators on using the BI tool_ ; 
     
 - **Socio-Economic Studies Officer [CCAS HORBOURG-WHIR]** : _02/2022 - 08/2022_
-  -   A
+  -   _Territorial diagnostics demonstrating the revitalization of community with young couples_,
+  -   _Survey to identify the needs of new arrivals_,
+  -   _Creation of dashboard to monitor aid request form residents ;  
     
 - **Statistician [CARSAT ALSACE-MOSELLE]** : _06/2021 - 07/2021_
   -   _Extraction and cleaning of study Database BOXI_,
