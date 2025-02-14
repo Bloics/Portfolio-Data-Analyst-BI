@@ -21,14 +21,14 @@
       -   _RUHD (Radio Ultra High Definition)_ ... ;  
   -   _Initiation of training sessions for collaborators on using the BI tool_ ; 
     
-- **Socio-Economic Studies Officer** : _02/2022 - 08/2022_
+- **Socio-Economic Studies Officer [CCAS HORBOURG-WHIR]** : _02/2022 - 08/2022_
   -   A
     
-- **Statistician** : _06/2021 - 07/2021_
+- **Statistician [CARSAT ALSACE-MOSELLE]** : _06/2021 - 07/2021_
   -   _Extraction and cleaning of study Database BOXI_,
   -   _Data analysis on non-take-up of survivor's pension_ ;  
     
-- **Census Agent** : _01/2020 - 02/2021_
+- **Census Agent [INSEE/EUROMETROPOLIS OF STRASBOURG]** : _01/2020 - 02/2021_
   -   _Data collection from the residents of the Eurometropolis_ ;  
     
 - **Assistant Statistician** : _06/2018 - 02/2019_
