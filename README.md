@@ -9,7 +9,7 @@
 - **Professional Bachelor's in Statistics (Data Science) at ENEAM-University of Abomey-Calavi** : (_01/2014 - 01/2018_) ;    
 
 ## 💼 Work Experience
-- **Operational Performance Assitant** : _09/2023 - Present_
+- **Operational Performance Assitant | TDF North-Est** : _09/2023 - Present_
   -   _Organization, conservation and traceability of Data_ ;
   -   _Consolidation and optimization of Data on the activity of Opearations Department_ ;
   -   _Participation in the overhaul of the national Scorecard on activity performance_ ;
@@ -25,13 +25,16 @@
   -   A
     
 - **Statistician** : _06/2021 - 07/2021_
-  -   B
+  -   _Extraction and cleaning of study Database BOXI_,
+  -   _Data analysis on non-take-up of survivor's pension_ ;  
     
 - **Census Agent** : _01/2020 - 02/2021_
-  -   C
+  -   _Data collection from the residents of the Eurometropolis_ ;  
     
 - **Assistant Statistician** : _06/2018 - 02/2019_
-  -   D
+  -   _Data collection, processing and control of survey Data_,
+  -   _Writing reports and survey guides_,
+  -   _Creation, processing and management of Database_,
     
 
 ## 🚀 Projets 
