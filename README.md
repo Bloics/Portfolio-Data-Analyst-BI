@@ -19,4 +19,5 @@
 
 ## 💻 Languages and Tools
 
-https://icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png
+![image](https://icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png)
+
