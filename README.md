@@ -10,14 +10,14 @@
 
 ## 💼 Work Experience
 - **Operational Performance Assitant** : _09/2023 - Present_
-  -   Organization, conservation and traceability of Data ;
-  -   Consolidation and optimization of Data on the activity of Opearations Department ;
-  -   Participation in the overhaul of the national Scorecard on activity performance ;
-  -   Creation of dashboards for daily team activity monitoring :
-      -   Preventive Safety Maintenance MPS,  
-      -   High Point Service for pylons and sites SPH,
-      -   Beacon intervention request by RIS (Site Infrastructure Manager),
-  -   Initiation of training sessions for collaborators on using the BI tool, 
+  -   _Organization, conservation and traceability of Data_ ;
+  -   _Consolidation and optimization of Data on the activity of Opearations Department_ ;
+  -   _Participation in the overhaul of the national Scorecard on activity performance_ ;
+  -   _Creation of dashboards for daily team activity monitoring_ :
+      -   _Preventive Safety Maintenance MPS_,  
+      -   _High Point Service for pylons and sites SPH_,
+      -   _Beacon intervention request by RIS (Site Infrastructure Manager)_,
+  -   _Initiation of training sessions for collaborators on using the BI tool_, 
     
 - **Socio-Economic Studies Officer** : _02/2022 - 08/2022_
   -   A
