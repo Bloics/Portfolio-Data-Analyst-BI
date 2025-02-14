@@ -9,6 +9,11 @@
 - **Professional Bachelor's in Statistics (Data Science) at ENEAM-University of Abomey-Calavi** | (_01/2014 - 01/2018_) ;    
 
 ## 💼 Work Experience
+- **Operational Performance Assitant** | _09/2023 - Present_
+- **Socio-Economic Studies Officer** | _02/2022 - 08/2022_
+- **Statistician** | _06/2021 - 07/2021_
+- **Census Agent** | _01/2020 - 02/2021_
+- **Assistant Statistician** | _06/2018 - 02/2019_
 
 ## 🚀 Projets 
 
