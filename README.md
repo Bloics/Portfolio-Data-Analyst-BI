@@ -27,19 +27,36 @@
   -   _Creation of dashboard to monitor aid request form residents ;  
     
 - **Statistician [CARSAT ALSACE-MOSELLE]** : _06/2021 - 07/2021_
-  -   _Extraction and cleaning of study Database BOXI_,
+  -   _Extraction and cleaning of study Database BOXI_ ;  
   -   _Data analysis on non-take-up of survivor's pension_ ;  
     
 - **Census Agent [INSEE/EUROMETROPOLIS OF STRASBOURG]** : _01/2020 - 02/2021_
   -   _Data collection from the residents of the Eurometropolis_ ;  
     
 - **Assistant Statistician [DSA - BENIN]** : _06/2018 - 02/2019_
-  -   _Data collection, processing and control of survey Data_,
-  -   _Writing reports and survey guides_,
-  -   _Creation, processing and management of Database_,
+  -   _Data collection, processing and control of survey Data_ ;  
+  -   _Writing reports and survey guides_ ;  
+  -   _Creation, processing and management of Database_ ;  
     
 
 ## 🚀 Projets 
+-  P1 : Découverte du monde de l’Analyst BI
+
+-  P2 : Visualisez des données avec Excel
+
+-  P3 : Requêtez une base de données avec SQL
+
+-  P4 : Collectez des données en respectant les normes RGPD
+
+-  P5 : Interrogez une base de données avec SQL pour suivre la satisfaction client
+
+-  P6 : Optimisez la gestion du stock d’une boutique en nettoyant ses données
+
+-  P7 : Créez un Dashboard dynamique avec Power BI pour visualiser l’avancement de projets
+
+-  P8 : Analysez l’évolution des prix de l’immobilier avec Python
+
+-  P9 : Créez un Portfolio de Data Analyst BI
 
 ## 💻 Languages and Tools
 
