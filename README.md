@@ -1,5 +1,7 @@
 # 📈 Data Analyst BI
 
+#### About Me : 
+
 #### Technical Skills : Power Query & Pivot | Power BI | SQL | R | QlikView | Tableau 
 
 ## 🎓 Education
