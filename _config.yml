@@ -8,7 +8,7 @@ logo: /Images/Photo_Pro/IMG_1967.JPG
 description: 
 
 # Offrir la possibilité à une personne de récupérer mon code 
-show_downloads: true 
+show_downloads: false 
 
 # Thème à proposer pour notre site web
 theme: jekyll-theme-minimal
