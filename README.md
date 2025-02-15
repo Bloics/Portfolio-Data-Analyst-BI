@@ -57,4 +57,15 @@
 ## 💻 Languages and Tools
 
 ![Ms Office](Images/Icone_LogiLanga/1486565573-microsoft-office_81557.png)
+![Excel](Images/Icone_LogiLanga/Excel_2013_23480.png)
+![Excel-Power_Query](Images/Icone_LogiLanga/Query.png)
+![Excel-Power_Pivot](Images/Icone_LogiLanga/power-pivot-2016-logo-spacer.png)
+![Power BI](Images/Icone_LogiLanga/Power-BI-Logo-2013.png)
+![SQL](Images/Icone_LogiLanga/SQL.png)
+![Python](Images/Icone_LogiLanga/python.png)
+![Vscode](Images/Icone_LogiLanga/png-clipart-visual-studio-code-full-logo-tech-companies-removebg-preview.png)
+![R](Images/Icone_LogiLanga/r_project_official_logo_icon_170811.png)
+![Tableau](Images/Icone_LogiLanga/Tableau-Emblem.png)
+![QlikSense](Images/Icone_LogiLanga/Qlik-Sense-Logo1.png)
+
 
