@@ -40,25 +40,21 @@
     
 
 ## 🚀 Projets 
--  P1 : Découverte du monde de l’Analyst BI
+-  P1: Visualize data with Excel
 
--  P2 : Visualisez des données avec Excel
+-  P2: Query a database with SQL
 
--  P3 : Requêtez une base de données avec SQL
+-  P3: Collect data while respecting GDPR standards
 
--  P4 : Collectez des données en respectant les normes RGPD
+-  P4: Query a database with SQL to track customer satisfaction
 
--  P5 : Interrogez une base de données avec SQL pour suivre la satisfaction client
+-  P5: Optimize store inventory management by cleaning its data
 
--  P6 : Optimisez la gestion du stock d’une boutique en nettoyant ses données
+-  P6: Create a dynamic Dashboard with Power BI to track project progress
 
--  P7 : Créez un Dashboard dynamique avec Power BI pour visualiser l’avancement de projets
-
--  P8 : Analysez l’évolution des prix de l’immobilier avec Python
-
--  P9 : Créez un Portfolio de Data Analyst BI
+-  P7: Analyze real estate price trends with Python
 
 ## 💻 Languages and Tools
 
-
+![Ms Office](Images/Icone_LogiLanga/1486565573-microsoft-office_81557.png)
 
