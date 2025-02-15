@@ -56,17 +56,17 @@
 
 ## 💻 Languages and Tools
 <p align="center">
-  <img src="Images/Icone_LogiLanga/1486565573-microsoft-office_81557.png" alt="Ms Office" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/Excel_2013_23480.png" alt="Excel" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/Query.png" alt="Excel-Power Query" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/power-pivot-2016-logo-spacer.png" alt="Excel-Power Pivot" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/Power-BI-Logo-2013.png" alt="Power BI" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/SQL.png" alt="SQL" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/python.png" alt="Python" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/png-clipart-visual-studio-code-full-logo-tech-companies-removebg-preview.png" alt="Vscode" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/r_project_official_logo_icon_170811.png" alt="R" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/Tableau-Emblem.png" alt="Tableau" width="150" height="150">
-  <img src="Images/Icone_LogiLanga/Qlik-Sense-Logo1.png" alt="QlikSense" width="150" height="150">
+  <img src="Images/Icone_LogiLanga/1486565573-microsoft-office_81557.png" alt="Ms Office" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/Excel_2013_23480.png" alt="Excel" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/Query.png" alt="Excel-Power Query" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/power-pivot-2016-logo-spacer.png" alt="Excel-Power Pivot" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/Power-BI-Logo-2013.png" alt="Power BI" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/SQL.png" alt="SQL" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/python.png" alt="Python" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/png-clipart-visual-studio-code-full-logo-tech-companies-removebg-preview.png" alt="Vscode" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/r_project_official_logo_icon_170811.png" alt="R" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/Tableau-Emblem.png" alt="Tableau" width="100" height="100">
+  <img src="Images/Icone_LogiLanga/Qlik-Sense-Logo1.png" alt="QlikSense" width="100" height="100">
 </p>
 
 
