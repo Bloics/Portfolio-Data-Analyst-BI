@@ -44,6 +44,8 @@
 ## 🚀 Projets 
 -  P1: Visualize data with Excel
 
+    Customers leaving Primero Bank are mainly older, married, wealthy, and educated individuals who use premium bank cards but are less active, engage more with the bank, and are dissatisfied with the services
+
 -  P2: Query a database with SQL
 
 -  P3: Collect data while respecting GDPR standards
