@@ -44,40 +44,40 @@
 ## 🚀 Projets 
 -  P1: Visualize data with Excel
 
-  -  _Customers leaving Primero Bank are mainly older, married, wealthy, and educated individuals who use premium bank cards but are less active, engage more with the bank, and are dissatisfied with the services_ ; 
+    -  _Customers leaving Primero Bank are mainly older, married, wealthy, and educated individuals who use premium bank cards but are less active, engage more with the bank, and are dissatisfied with the services_ ; 
 
 -  P2: Query a database with SQL
 
-  -  _85% of contracts cover primary residences, mainly in Île-de-France, with rates varying based on location and property value_ ; 
-  -  _Adapt offers, adjust rates based on seniority, and improve customer support_ ;
+    -  _85% of contracts cover primary residences, mainly in Île-de-France, with rates varying based on location and property value_ ; 
+    -  _Adapt offers, adjust rates based on seniority, and improve customer support_ ;
 
 -  P3: Collect data while respecting GDPR standards
 
-  -  _The data processing applied to DEV’IMMEDIAT ensures compliance with GDPR through anonymization and the security of sensitive information_ ;  
-  -  _Establish a data processing register and organize workshops to ensure continuous improvement_ ;  
+    -  _The data processing applied to DEV’IMMEDIAT ensures compliance with GDPR through anonymization and the security of sensitive information_ ;  
+    -  _Establish a data processing register and organize workshops to ensure continuous improvement_ ;  
 
 -  P4: Query a database with SQL to track customer satisfaction
 
-  -  _More than half of BestMarket stores have a satisfaction rating above the average (8.05/10), with high-tech products and after-sales service receiving the best feedback_ ;
-  -  _However, 44% of stores score below this average, and services like delivery and drive-through remain underdeveloped_ ;
-  -  _Enhance customer proximity, optimize delivery and drive-through services, and strengthen communication to better meet customer expectations_ ;  
+    -  _More than half of BestMarket stores have a satisfaction rating above the average (8.05/10), with high-tech products and after-sales service receiving the best feedback_ ;
+    -  _However, 44% of stores score below this average, and services like delivery and drive-through remain underdeveloped_ ;
+    -  _Enhance customer proximity, optimize delivery and drive-through services, and strengthen communication to better meet customer expectations_ ;  
 
 -  P5: Optimize store inventory management by cleaning its data
 
-  -  _The analysis of Bottleneck's stock reveals a homogeneous price range with atypical values for prestigious bottles, as well as a revenue of €70,318.6 from only 3% of items sold_ ;
-  -  _Despite the strong share of online sales (86.89%), inconsistencies persist in data quality and consolidation_ ;
-  -  _Implement a centralized system for real-time stock and sales tracking to optimize management and improve data quality_ ;  
+    -  _The analysis of Bottleneck's stock reveals a homogeneous price range with atypical values for prestigious bottles, as well as a revenue of €70,318.6 from only 3% of items sold_ ;
+    -  _Despite the strong share of online sales (86.89%), inconsistencies persist in data quality and consolidation_ ;
+    -  _Implement a centralized system for real-time stock and sales tracking to optimize management and improve data quality_ ;  
 
 -  P6: Create a dynamic Dashboard with Power BI to track project progress
   
-  -  _The "Project Progress and Performance Monitoring" dashboard evaluates Sanitoral's IT and Marketing projects by providing key stakeholders with an overview of key indicators (costs, deadlines, deliverables)_ ;  
-  -  _To enhance its effectiveness, it is recommended to integrate an alert system to quickly detect budget overruns and delays while ensuring easy access to data for better strategic decision-making_ ;  
+    -  _The "Project Progress and Performance Monitoring" dashboard evaluates Sanitoral's IT and Marketing projects by providing key stakeholders with an overview of key indicators (costs, deadlines, deliverables)_ ;  
+    -  _To enhance its effectiveness, it is recommended to integrate an alert system to quickly detect budget overruns and delays while ensuring easy access to data for better strategic decision-making_ ;  
 
 -  P7: Analyze real estate price trends with Python
   
-  -  _The analysis of real estate price trends from 2017 to 2021 shows a steady increase in price per square meter, especially for apartments, along with a decline in transactions_ ;  
-  -  _The predictive study confirms that commercial properties are more profitable than apartments, with the classification model achieving a strong performance (95.8%)_ ;
-  -  _To optimize investments, it is recommended to maintain the supply of apartments, diversify the commercial property portfolio, and adjust rental values based on market trends using a tracking and modeling tool_ ;  
+    -  _The analysis of real estate price trends from 2017 to 2021 shows a steady increase in price per square meter, especially for apartments, along with a decline in transactions_ ;  
+    -  _The predictive study confirms that commercial properties are more profitable than apartments, with the classification model achieving a strong performance (95.8%)_ ;
+    -  _To optimize investments, it is recommended to maintain the supply of apartments, diversify the commercial property portfolio, and adjust rental values based on market trends using a tracking and modeling tool_ ;  
 
 ## 💻 Languages and Tools
 <p align="center">
