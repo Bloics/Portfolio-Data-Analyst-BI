@@ -44,6 +44,7 @@
 ## 🚀 Projets 
 -  P1: Visualize data with Excel
 
+    <img src="Images/Icone_Projet/P2_Illustr.jpg" alt="Ms Office" width="300" height="300">
     -  _Customers leaving Primero Bank are mainly older, married, wealthy, and educated individuals who use premium bank cards but are less active, engage more with the bank, and are dissatisfied with the services_ ; 
 
 -  P2: Query a database with SQL
