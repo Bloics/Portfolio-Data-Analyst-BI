@@ -109,17 +109,19 @@
 
 ## 💻 Languages and Tools
 <p align="center">
-  <img src="Images/Icone_LogiLanga/1486565573-microsoft-office_81557.png" alt="Ms Office" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/Excel_2013_23480.png" alt="Excel" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/Query.png" alt="Excel-Power Query" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/power-pivot-2016-logo-spacer.png" alt="Excel-Power Pivot" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/Power-BI-Logo-2013.png" alt="Power BI" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/SQL.png" alt="SQL" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/python.png" alt="Python" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/png-clipart-visual-studio-code-full-logo-tech-companies-removebg-preview.png" alt="Vscode" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/r_project_official_logo_icon_170811.png" alt="R" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/Tableau-Emblem.png" alt="Tableau" width="100" height="100">
-  <img src="Images/Icone_LogiLanga/Qlik-Sense-Logo1.png" alt="QlikSense" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Software_logo.png" alt="Tableau">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/QlikView_logo.png" alt="QlikView">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code">
+  <img src="https://duckdb.org/images/logo-square.png" alt="Duck DB">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/SAS_logo.png" alt="SAS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_2017.svg" alt="QGIS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phicarto">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phildigit">
 </p>
 
 
