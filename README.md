@@ -113,7 +113,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
-    <img src="https://seeklogo.com/images/T/Tableau-Software-logo-F1CAE7E3D9-seeklogo.com.png" alt="Tableau" width="50" height="50">
+    <img src="Images/Icone_LogiLanga/Tableau-Emblem.png" alt="Tableau" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/QlikView_Logo.svg/512px-QlikView_Logo.svg.png" alt="QlikView" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50">
