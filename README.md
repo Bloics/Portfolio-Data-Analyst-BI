@@ -109,6 +109,7 @@
 
 ## 💻 Languages and Tools
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_2017.svg" alt="QGIS" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50">
@@ -119,7 +120,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50">
     <img src="https://duckdb.org/images/logo-square.png" alt="Duck DB" width="50" height="50">
     <img src="https://www.sas.com/etc/designs/saswww/logo.png" alt="SAS" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_2017.svg" alt="QGIS" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Phicarto" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Phildigit" width="50" height="50">
 </p>
