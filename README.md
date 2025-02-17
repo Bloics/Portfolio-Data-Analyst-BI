@@ -108,18 +108,18 @@
     -  _To optimize investments, it is recommended to maintain the supply of apartments, diversify the commercial property portfolio, and adjust rental values based on market trends using a tracking and modeling tool_ ;  
 
 ## 💻 Languages and Tools
-p align="center">
+<p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Software_logo.png" alt="Tableau" width="50" height="50">
+    <img src="https://seeklogo.com/images/T/Tableau-Software-logo-F1CAE7E3D9-seeklogo.com.png" alt="Tableau" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/QlikView_logo.png" alt="QlikView" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/QlikView_Logo.svg/512px-QlikView_Logo.svg.png" alt="QlikView" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50">
     <img src="https://duckdb.org/images/logo-square.png" alt="Duck DB" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/SAS_logo.png" alt="SAS" width="50" height="50">
+    <img src="https://www.sas.com/etc/designs/saswww/logo.png" alt="SAS" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_2017.svg" alt="QGIS" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phicarto" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phildigit" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Phicarto" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Phildigit" width="50" height="50">
 </p>
