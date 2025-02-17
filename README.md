@@ -108,20 +108,50 @@
     -  _To optimize investments, it is recommended to maintain the supply of apartments, diversify the commercial property portfolio, and adjust rental values based on market trends using a tracking and modeling tool_ ;  
 
 ## 💻 Languages and Tools
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Software_logo.png" alt="Tableau">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/QlikView_logo.png" alt="QlikView">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code">
-  <img src="https://duckdb.org/images/logo-square.png" alt="Duck DB">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/SAS_logo.png" alt="SAS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_2017.svg" alt="QGIS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phicarto">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phildigit">
-</p>
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icônes des Logiciels et Langages</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .icon-container {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 10px;
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+        .icon-container img {
+            width: 50px;
+            height: 50px;
+            object-fit: contain;
+        }
+    </style>
+</head>
+<body>
+    <div class="icon-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Software_logo.png" alt="Tableau">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/QlikView_logo.png" alt="QlikView">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code">
+        <img src="https://duckdb.org/images/logo-square.png" alt="Duck DB">
+        <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/SAS_logo.png" alt="SAS">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo_2017.svg" alt="QGIS">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phicarto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Generic_Icon.svg" alt="Phildigit">
+    </div>
+</body>
+</html>
 
