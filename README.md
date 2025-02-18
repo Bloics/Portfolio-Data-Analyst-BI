@@ -1,4 +1,4 @@
-# 📈 Data Analyst BI & Socio-Economic Studies Officer | 
+# 📈 Data Analyst BI & Socio-Economic Studies Officer | Master's in Demography & Data Science BI
 
 My name is Loïc Stephane BAMENOU, and I am a Data Analyst BI passionate about using data to make informed decisions.  
 
