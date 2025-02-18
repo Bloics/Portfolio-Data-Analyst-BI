@@ -1,8 +1,15 @@
-# 📈 Data Analyst BI
+# 📈 Data Analyst BI & Socio-Economic Studies Officer | 
 
-#### About Me : 
+My name is Loïc Stephane BAMENOU, and I am a Business Analyst passionate about using data to make informed decisions.
+I specialize in data analysis, business process modeling, project management, and result communication. 
+My expertise also includes socio-demographic studies, researching and interpreting demographic and social trends. 
+My goal is to continue developing my technical and analytical skills while contributing to innovative and impactful projects.
+
+I enjoy solving complex problems with data and helping businesses better understand their processes and market to make informed decisions. 
 
 #### Technical Skills : Power Query & Pivot | Power BI | SQL | R | QlikView | Tableau 
+
+Connect with me on 📧[LinkedIn](www.linkedin.com/in/loïc-bamenou) | 📧 [Email](bloics@outlook.fr)
 
 ## 🎓 Education
 - **Data Analyst BI [ENSAE-ENSAI, Openclassrooms] RNCP Level 6** : (_09/2023 - Present_) ;   
