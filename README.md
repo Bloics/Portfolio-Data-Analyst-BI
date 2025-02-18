@@ -10,7 +10,7 @@ I enjoy solving complex problems with data and helping businesses better underst
 
 #### Technical Skills : Power Query & Pivot | Power BI | SQL | R | QlikView | Tableau 
 
-Connect with me on 📧[LinkedIn]([www.linkedin.com/in/loïc-bamenou](https://www.linkedin.com/in/lo%C3%AFc-bamenou/)) | 📧 [Email](bloics@outlook.fr)
+Connect with me on 📧[LinkedIn]([www.linkedin.com/in/loïc-bamenou](https://www.linkedin.com/in/lo%C3%AFc-bamenou/)) | 📧 [Email](mailto:bloics@outlook.fr)
 
 ## 🎓 Education
 - **Data Analyst BI [ENSAE-ENSAI, Openclassrooms] RNCP Level 6** : (_09/2023 - Present_) ;   
