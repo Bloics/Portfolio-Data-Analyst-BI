@@ -1,6 +1,7 @@
 # 📈 Data Analyst BI & Socio-Economic Studies Officer | 
 
 My name is Loïc Stephane BAMENOU, and I am a Data Analyst BI passionate about using data to make informed decisions.  
+
 I specialize in data analysis, business process modeling, project management, and result communication. 
 My expertise also includes socio-demographic studies, researching and interpreting demographic and social trends. 
 My goal is to continue developing my technical and analytical skills while contributing to innovative and impactful projects.
