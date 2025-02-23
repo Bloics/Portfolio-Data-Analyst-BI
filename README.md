@@ -51,10 +51,9 @@ Connect with me on 📧[LinkedIn]([www.linkedin.com/in/loïc-bamenou](https://ww
 
 ## 🚀 Projets   
 
-Throughout my career as a Business Intelligence Data Analyst, I have worked on various impactful projects. 
-I have utilized my skills in data collection, analysis, and visualization to provide actionable insights and support data-driven decision-making processes. 
-My experience includes developing and implementing data models, creating interactive dashboards, and conducting in-depth analysis to uncover trends and patterns. 
-I have collaborated with cross-functional teams to ensure the successful delivery of projects and continuously strive to enhance my technical expertise and business acumen.
+As a Business Intelligence Data Analyst, I have worked on several key themes, ranging from sales analysis to operations optimization. 
+I have used BI tools to create data models, produce interactive visualizations, and generate actionable insights. 
+My experience includes collaborating with various teams to ensure project success and deliver measurable value to the organization.
 
 <p align="center">
     <img src="Images/Icone_Projet/Carte_formationVost.PNG" alt="MindMaps" width="1000" height="700"> 
