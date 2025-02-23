@@ -12,13 +12,13 @@ I enjoy solving complex problems with data and helping businesses better underst
 
 Connect with me on 📧[LinkedIn]([www.linkedin.com/in/loïc-bamenou](https://www.linkedin.com/in/lo%C3%AFc-bamenou/)) | 📧 [Email](mailto:bloics@outlook.fr)
 
-## 🎓 Education
+## 🎓 Education  
 - **Data Analyst BI [ENSAE-ENSAI, Openclassrooms] RNCP Level 6** : (_09/2023 - Present_) ;   
 - **M.S., Demography (Social Sciences) [University of Strasbourg]** : (_09/2020 -12/2022_) ;    
 - **B.S., Demography (Social Sciences) [University of Strasbourg]** : (_09/2019 - 05/2020_) ;    
 - **Pro. B.S., Statistics (Data Science) [University of Abomey-Calavi]** : (_01/2014 - 01/2018_) ;    
 
-## 💼 Work Experience
+## 💼 Work Experience  
 - **Operational Performance Assitant [TDF North-Est]** : _09/2023 - Present_
   -   _Organization, conservation and traceability of Data_ ;
   -   _Consolidation and optimization of Data on the activity of Opearations Department_ ;
@@ -49,7 +49,17 @@ Connect with me on 📧[LinkedIn]([www.linkedin.com/in/loïc-bamenou](https://ww
   -   _Creation, processing and management of Database_ ;  
     
 
-## 🚀 Projets 
+## 🚀 Projets   
+
+Throughout my career as a Business Intelligence Data Analyst, I have worked on various impactful projects. 
+I have utilized my skills in data collection, analysis, and visualization to provide actionable insights and support data-driven decision-making processes. 
+My experience includes developing and implementing data models, creating interactive dashboards, and conducting in-depth analysis to uncover trends and patterns. 
+I have collaborated with cross-functional teams to ensure the successful delivery of projects and continuously strive to enhance my technical expertise and business acumen.
+
+<p align="center">
+    <img src="Images/Icone_Projet/Carte_formationVost.PNG" alt="MindMaps" width="1000" height="700"> 
+     </p> 
+
 -  P1: Visualize data with Excel
 
     <p align="center">
